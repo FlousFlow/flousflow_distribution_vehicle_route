@@ -2,7 +2,7 @@
 
 # FlousFlow Distribution Suite
 
-Part of the **FlousFlow Distribution Management** suite for Odoo 19 Community.
+Part of the **FlousFlow Distribution Management** suite for Odoo 20 Community.
 
 </div>
 
